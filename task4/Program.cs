@@ -1,12 +1,8 @@
 ﻿// task4
 int numberN = 32554;
-int numberX = numberN /2;
-int numberY = numberX *2;
-int numberA = 2;
-
-if (number == numberN)
+inmberN)
 {
-numberN = numberN;  
+numberberN;  
 }
 else 
 {
